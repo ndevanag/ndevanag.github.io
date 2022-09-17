@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"Plants": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Plant": "Monstera",
+			"Nickname": "Monsty",
+			"Age": "2 months old",
+			"Health": "Amazing"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Plant": "Peace Lily",
+			"Nickname": "N/A",
+			"Age": "N/A: Adopted",
+			"Health": "Dying"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Plant": "Calathea Orbifolia",
+			"Nickname": "Cally",
+			"Age": "N/A: Adopted",
+			"Health": "Doing alright"
 		}
 	]
 }
